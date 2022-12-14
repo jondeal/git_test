@@ -1,0 +1,9 @@
+Monday, 12 DEC 2022
+	Installed Ubuntu.  Learned more about dual-boot.
+	Started The Odin Project.  Learned more about the architecture of the internet.
+	Attempted to set up a Discord, still working with Discord Support.
+	Learning Linux code line interface commands.
+	Set up a GitHub account.
+Tuseday, 13 DEC 2022
+	Continued GitHub practice.  Learning to stage code edits locally and push them to the repository.
+	
