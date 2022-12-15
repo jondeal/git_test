@@ -4,6 +4,9 @@ Monday, 12 DEC 2022
 	Attempted to set up a Discord, still working with Discord Support.
 	Learning Linux code line interface commands.
 	Set up a GitHub account.
-Tuseday, 13 DEC 2022
+Tuesday, 13 DEC 2022
 	Continued GitHub practice.  Learning to stage code edits locally and push them to the repository.
+Wedensday, 14 DEC 2022
+	Fundamentals of HTML.
+Thursday, 15 DEC 2022
 	
