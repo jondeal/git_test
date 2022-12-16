@@ -9,4 +9,7 @@ Tuesday, 13 DEC 2022
 Wedensday, 14 DEC 2022
 	Fundamentals of HTML.
 Thursday, 15 DEC 2022
-	
+	Learned more about good practices for GitHub commits.  Created a recipe site with one recipe in order to
+	practice HTML.
+Friday, 16 DEC 2022
+	Finished recipe HTML exercie by adding two more recipes to the site.
