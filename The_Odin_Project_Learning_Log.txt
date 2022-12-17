@@ -13,3 +13,4 @@ Thursday, 15 DEC 2022
 	practice HTML.
 Friday, 16 DEC 2022
 	Finished recipe HTML exercie by adding two more recipes to the site.
+	Started learning about CSS.
