@@ -28,4 +28,9 @@ Wedensday, 21 DEC 2022
 Tuesday, 3 JAN 2023
 	Resume CSS.  Finished Foundations 01-06 with a decent grasp of the process.  My styling will probably differ as the pages get more complex,
 	as I won't be able to rely on grouping elements with similar styles together in quite the same way.  Started Inspector lesson.
-
+Wednesday, 4 JAN 2023
+	Driving day.  No TOP work.
+Thursday, 5 JAN 2023
+	Finished Chrome Inspector lesson.  Started box model section of Foundations.
+Friday:
+    Continued box model.
