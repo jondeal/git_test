@@ -32,5 +32,25 @@ Wednesday, 4 JAN 2023
 	Driving day.  No TOP work.
 Thursday, 5 JAN 2023
 	Finished Chrome Inspector lesson.  Started box model section of Foundations.
-Friday:
-    Continued box model.
+Friday, 6 JAN 2023:
+    Continued box model.  Started learning the basics of flexbox.
+Saturday 7 JAN 2023;
+	More flexbox practice.
+Sunday, 8 JAN 2023:
+	Driving day.  No TOP work, just thinking about it.
+Monday, 9 JAN 2023:
+	Flexbox alignment lesson.  I'm starting to take more notes.
+Tuesday, 10 JAN 2023:
+	Driving day.  Thought about Flexbox, researched Data Structures & Algorithms.
+Wednesday, 11 JAN 2023:
+	Working through the previous Flexbox lessons again.
+Thursday, 12 JAN 2023:
+	Continued Flexbox.
+Friday, 13 JAN 2023:
+	Continued Flexbox, a little bit at a time.
+Saturday, 14 JAN 2023:
+	Finishing the last Flexbox exercises in the Foundations section.
+Sunday, 15 JAN 2023:
+	Finished Flexbox section.
+
+
