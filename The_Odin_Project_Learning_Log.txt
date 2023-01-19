@@ -1,56 +1,104 @@
+Thursday, 19 JAN 2023:
+	Finished Landing Page exercise to my satisfaction.
+	Put this log in reverse order.
+Wednesday, 18 JAN 2023:
+	Continued Landing Page exercise.
+Tuesday, 17 JAN 2023:
+	Continued Landing Page exercise.
+Monday, 16 JAN 2023:
+	Continuing Landing Page exercise.
+Sunday, 15 JAN 2023:
+	Finished Flexbox section.
+	Started the Landing Page exercise.
+Saturday, 14 JAN 2023:
+	Finishing the last Flexbox exercises in the Foundations section.
+Friday, 13 JAN 2023:
+	Continued Flexbox, a little bit at a time.
+Thursday, 12 JAN 2023:
+	Continued Flexbox.
+Wednesday, 11 JAN 2023:
+	Working through the previous Flexbox lessons again.
+Tuesday, 10 JAN 2023:
+	Driving day.
+	Thought about Flexbox, researched Data Structures & Algorithms.
+Monday, 9 JAN 2023:
+	Flexbox alignment lesson.
+	I'm starting to take more notes.
+Sunday, 8 JAN 2023:
+	Driving day.
+	No TOP work, just thinking about it.
+Saturday 7 JAN 2023;
+	More flexbox practice.
+Friday, 6 JAN 2023:
+    Continued box model.
+	Started learning the basics of flexbox.
+Thursday, 5 JAN 2023
+	Finished Chrome Inspector lesson.
+	Started box model section of Foundations.
+Wednesday, 4 JAN 2023
+	Driving day.
+	No TOP work.
+Tuesday, 3 JAN 2023
+	Resume CSS.
+	Finished Foundations 01-06 with a decent grasp of the process.  My styling will probably differ as the pages get more complex,
+	as I won't be able to rely on grouping elements with similar styles together in quite the same way.
+	Started Inspector lesson.
+
+...
+
+Wedensday, 21 DEC 2022
+	Pause studying while on vacation.
+Tuesday, 20 DEC 2022
+	Continue CSS.
+Monday, 19 DEC 2022
+	Continue CSS.
+Sunday, 18 DEC 2022
+	More HTML practice.
+	Created repository with instructions for taking care of the cats while we're away.
+Saturday, 17 DEC 2022
+	Rest day.
+Friday, 16 DEC 2022
+	Finished recipe HTML exercie by adding two more recipes to the site.
+	Started learning about CSS.
+Thursday, 15 DEC 2022
+	Learned more about good practices for GitHub commits.
+	Created a recipe site with one recipe in order to practice HTML.
+Wedensday, 14 DEC 2022
+	Fundamentals of HTML.
+Tuesday, 13 DEC 2022
+	Continued GitHub practice.
+	Learning to stage code edits locally and push them to the repository.
 Monday, 12 DEC 2022
 	Installed Ubuntu.  Learned more about dual-boot.
 	Started The Odin Project.  Learned more about the architecture of the internet.
 	Attempted to set up a Discord, still working with Discord Support.
 	Learning Linux code line interface commands.
 	Set up a GitHub account.
-Tuesday, 13 DEC 2022
-	Continued GitHub practice.  Learning to stage code edits locally and push them to the repository.
-Wedensday, 14 DEC 2022
-	Fundamentals of HTML.
-Thursday, 15 DEC 2022
-	Learned more about good practices for GitHub commits.  Created a recipe site with one recipe in order to
-	practice HTML.
-Friday, 16 DEC 2022
-	Finished recipe HTML exercie by adding two more recipes to the site.
-	Started learning about CSS.
-Saturday, 17 DEC 2022
-	Rest day.
-Sunday, 18 DEC 2022
-	More HTML practice.  Created repository with instructions for taking care of the cats while we're away.
-Monday, 19 DEC 2022
-	Continue CSS.
-Tuesday, 20 DEC 2022
-	Continue CSS.
-Wedensday, 21 DEC 2022
-	Pause studying while on vacation.
-...
-Tuesday, 3 JAN 2023
-	Resume CSS.  Finished Foundations 01-06 with a decent grasp of the process.  My styling will probably differ as the pages get more complex,
-	as I won't be able to rely on grouping elements with similar styles together in quite the same way.  Started Inspector lesson.
-Wednesday, 4 JAN 2023
-	Driving day.  No TOP work.
-Thursday, 5 JAN 2023
-	Finished Chrome Inspector lesson.  Started box model section of Foundations.
-Friday, 6 JAN 2023:
-    Continued box model.  Started learning the basics of flexbox.
-Saturday 7 JAN 2023;
-	More flexbox practice.
-Sunday, 8 JAN 2023:
-	Driving day.  No TOP work, just thinking about it.
-Monday, 9 JAN 2023:
-	Flexbox alignment lesson.  I'm starting to take more notes.
-Tuesday, 10 JAN 2023:
-	Driving day.  Thought about Flexbox, researched Data Structures & Algorithms.
-Wednesday, 11 JAN 2023:
-	Working through the previous Flexbox lessons again.
-Thursday, 12 JAN 2023:
-	Continued Flexbox.
-Friday, 13 JAN 2023:
-	Continued Flexbox, a little bit at a time.
-Saturday, 14 JAN 2023:
-	Finishing the last Flexbox exercises in the Foundations section.
-Sunday, 15 JAN 2023:
-	Finished Flexbox section.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
