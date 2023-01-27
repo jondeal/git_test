@@ -1,3 +1,19 @@
+Thursday, 26 JAN 2023:
+	Finished JavaScript dev tools.  Started Fundamentals 3.
+Wednesday, 25 JAN 2023:
+	Driving and tasks day.
+Tuesday, 24 JAN 2023:
+	JavaScript dev tools.
+Monday, 23 JAN 2023:
+	Continuing JavaScript.
+	Primer on regular expressions.
+Sunday, 22 JAN 2023:
+	Continuing JavaScript.
+Saturday, 21 JAN 2023:
+	Continuing JavaScript.
+	...What a hot garbage language.
+Friday, 20 JAN 2023:
+	Started JavaScript.
 Thursday, 19 JAN 2023:
 	Finished Landing Page exercise to my satisfaction.
 	Put this log in reverse order.
