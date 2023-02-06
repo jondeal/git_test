@@ -1,5 +1,31 @@
+Monday, 6 FEB 2023:
+
+Sunday, 5 FEB 2023:
+	Life day.
+Saturday, 4 FEB 2023:
+	Work day.
+Friday, 3 FEB 2023:
+	More TDD.
+	DOM mainuplation via JS.
+Thursday, 2 FEB 2023:
+	Loops.
+	Test-driven development.
+Wednesday 1 FEB 2023:
+	Life day.
+Tuesday, 31 JAN 2023:
+	Arrays.
+Monday 30 JAN 2023:
+	More functions work.
+	The classic rock/paper/scissors.
+Sunday, 29 JAN 2023:
+	Work.
+Saturday, 28 JAN 2023:
+	Fundamentals of functions.
+Friday, 27 JAN 2023:
+	Work day.  No TOP.
 Thursday, 26 JAN 2023:
-	Finished JavaScript dev tools.  Started Fundamentals 3.
+	Finished JavaScript dev tools.
+	Started Fundamentals 3.
 Wednesday, 25 JAN 2023:
 	Driving and tasks day.
 Tuesday, 24 JAN 2023:
@@ -61,8 +87,8 @@ Tuesday, 3 JAN 2023
 	Started Inspector lesson.
 
 ...
-
-Wedensday, 21 DEC 2022
+W
+Wednesday, 21 DEC 2022
 	Pause studying while on vacation.
 Tuesday, 20 DEC 2022
 	Continue CSS.
@@ -79,7 +105,7 @@ Friday, 16 DEC 2022
 Thursday, 15 DEC 2022
 	Learned more about good practices for GitHub commits.
 	Created a recipe site with one recipe in order to practice HTML.
-Wedensday, 14 DEC 2022
+Wednesday, 14 DEC 2022
 	Fundamentals of HTML.
 Tuesday, 13 DEC 2022
 	Continued GitHub practice.
